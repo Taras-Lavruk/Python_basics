@@ -1,0 +1,72 @@
+2024-02-29 14:28:47,539 :DEBUG :test_e2e :A debug statement is executed
+2024-02-29 14:28:47,539 :INFO :test_e2e :Information statement
+2024-02-29 14:28:47,539 :WARNING :test_e2e :Warning
+2024-02-29 14:28:47,539 :ERROR :test_e2e :Error
+2024-02-29 14:28:47,539 :CRITICAL :test_e2e :Critical issue
+2024-02-29 14:28:51,985 :INFO :test_e2e :getting all card titles
+2024-02-29 14:28:52,108 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 14:28:57,457 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 16:46:31,285 :INFO :test_e2e :getting all card titles
+2024-02-29 16:46:31,377 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 16:46:36,837 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 16:48:28,931 :INFO :test_e2e :getting all card titles
+2024-02-29 16:48:29,028 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 16:48:34,384 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 16:54:42,263 :INFO :test_e2e :getting all card titles
+2024-02-29 16:54:42,356 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 16:54:47,751 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 16:59:18,312 :INFO :test_e2e :getting all card titles
+2024-02-29 16:59:18,401 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 16:59:23,762 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 16:59:26,935 :INFO :test_home_page :First name is test
+2024-02-29 16:59:27,574 :INFO :test_home_page :First name is first
+2024-02-29 16:59:27,574 :INFO :test_home_page :First name is first
+2024-02-29 17:45:33,759 :INFO :test_e2e :getting all card titles
+2024-02-29 17:45:33,851 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 17:45:39,204 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 17:48:46,447 :INFO :test_home_page :First name is test
+2024-02-29 17:48:47,321 :INFO :test_home_page :First name is first
+2024-02-29 17:48:47,321 :INFO :test_home_page :First name is first
+2024-02-29 17:49:08,031 :INFO :test_e2e :getting all card titles
+2024-02-29 17:49:08,128 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 17:49:13,592 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 17:50:05,368 :INFO :test_e2e :getting all card titles
+2024-02-29 17:50:05,458 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 17:50:10,859 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 17:50:38,356 :INFO :test_e2e :getting all card titles
+2024-02-29 17:50:38,449 :INFO :test_e2e :Entering country name as ukr
+2024-02-29 17:50:43,882 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-29 17:50:47,630 :INFO :test_home_page :First name is test
+2024-02-29 17:50:48,233 :INFO :test_home_page :First name is first
+2024-02-29 17:50:48,233 :INFO :test_home_page :First name is first
+2024-03-01 16:48:20,290 :INFO :test_e2e :getting all card titles
+2024-03-01 16:48:20,382 :INFO :test_e2e :Entering country name as ukr
+2024-03-01 16:48:25,788 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-04 12:30:39,157 :INFO :test_e2e :getting all card titles
+2024-03-04 12:30:39,253 :INFO :test_e2e :Entering country name as ukr
+2024-03-04 12:30:44,683 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-04 12:31:41,963 :INFO :test_e2e :getting all card titles
+2024-03-04 12:31:42,050 :INFO :test_e2e :Entering country name as ukr
+2024-03-04 12:31:47,441 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-04 12:31:52,021 :INFO :test_home_page :First name is test
+2024-03-04 12:31:52,749 :INFO :test_home_page :First name is first
+2024-03-04 12:31:52,749 :INFO :test_home_page :First name is first
+2024-03-04 12:33:11,151 :INFO :test_e2e :getting all card titles
+2024-03-04 12:33:11,238 :INFO :test_e2e :Entering country name as ukr
+2024-03-04 12:33:16,718 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-04 12:33:20,733 :INFO :test_home_page :First name is test
+2024-03-04 12:33:21,408 :INFO :test_home_page :First name is first
+2024-03-04 12:33:21,408 :INFO :test_home_page :First name is first
